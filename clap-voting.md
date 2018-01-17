@@ -2,7 +2,7 @@
 
 ## What is clap voting?
 
-Sometimes things just call for a vote (like deciding if you should dip strawberries in melted chocolate, or just use a knife to smear pasta nusa on them). 
+Sometimes things just call for a vote (like deciding if you should dip strawberries in melted chocolate, or just use a knife to schmear _pasta nusa_ on them). 
 
 This is where clap voting comes in.
 
@@ -11,7 +11,7 @@ This is where clap voting comes in.
 1. A member of the group calls for a clap vote (the vote caller is known as the clap-master) 
 2. All group members gather in a circle
 3. The clap master announces all the possible options
-4. All group members close their eyes
+4. All group members close their eyeballs
 5. The clap master announces an option
 6. Every group member who agrees with the option, calps once
 7. Repeat steps 5 and 6 until there are no more options
